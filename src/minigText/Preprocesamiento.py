@@ -24,19 +24,44 @@ archEscritura.write("@DATA")
 
 lineas=archLectura.readlines()
 #print "Read Line: %s" % (lineas)
-
+puesto = lineas[0].split('"')
+puesto = puesto[0].split(',')
+print puesto[3]
 lineaTotal=""
+ind = 0
+clase = ""
+trabajo = ""
 for linea in lineas:
-    lineaTotal+=linea
+    restoLinea = linea.split('"')
+    puesto = restoLinea[0].split(',')
+    if len(puesto)==5:
+        clase = puesto[1]
+        trabajo = puesto[3]
+        lineaTotal+=clase
+        lineaTotal += " "
+        lineaTotal+=trabajo
+        ind = len(trabajo)
+        lineaTotal+= " $ "
+        for lin in restoLinea[1:]:
+            lineaTotal+=lin
+        print lineaTotal
+    else:
+        lineaTotal+=linea
 blob=TextBlob(lineaTotal.decode('utf-8'))
 
 #separamos en palabras
 words=blob.words
+print words
 count = 1
-nword = words[0].split(',')
+#nword = words[0].split(',')
 ncomments = []
-ncomments.append(nword[1])
-for word in words[1:]:
+ncomments.append(clase)
+ncomments.append(trabajo)
+aux = trabajo.split(' ')
+ind = len(aux) +1
+print ind
+#ncomments.append(nword[1])
+for word in words[ind:]:
     nword = strip_accents(word)
     exclude = set(string.punctuation)
     nword = ''.join(ch for ch in nword if ch not in exclude)

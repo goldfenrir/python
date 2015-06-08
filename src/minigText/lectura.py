@@ -25,12 +25,32 @@ archEscritura.write("%1. Title: BT database\n")
 archEscritura.write("@DATA\n")
 lineas=archLectura.readlines()
 #print "Read Line: %s" % (lineas)
-
+clase = ""
+puesto = ""
+trabajo = ""
 lineaTotal=""
 for linea in lineas:
+    restoLinea = linea.split('"')
+    puesto = restoLinea[0].split(',')
+    if len(puesto)==5 and puesto[0].isdigit() and puesto[1].isdigit() and puesto[2].isdigit():
+        clase = puesto[1]
+        trabajo = puesto[3]
+        lineaTotal += restoLinea[0]
+        print restoLinea
+        lineaTotal += " $ "
+        lineaTotal += restoLinea[1]
+        #lineaTotal+=clase
+        #lineaTotal += " "
+        #lineaTotal+=trabajo
+        #ind = len(trabajo)
+        #lineaTotal+= " $ "
+        #for lin in restoLinea[1:]:
+            #lineaTotal+=lin
+        #print lineaTotal
+    #else:
     lineaTotal+=linea
 blob=TextBlob(lineaTotal.decode('utf-8'))
-
+ind = 0
 #separamos en palabras
 words=blob.words
 count = 0
@@ -62,6 +82,11 @@ while count < len(words) :
             primero = 2
         ncomments = []
         ncomments.append(nword[1])
+        while words[count]!= " $ ":
+            trabajo += words[count]
+            count +=1
+        ncomments.append(trabajo)
+        count +=1
     if len(nword)<2:
         nword = strip_accents(words[count])
         exclude = set(string.punctuation)
