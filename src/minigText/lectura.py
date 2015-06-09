@@ -20,7 +20,7 @@ def strip_accents(s):
 
 archLectura=open('TA_Registros_etiquetados.csv','r')#Leer archivo
 
-archEscritura= open('Resultados.txt', 'w')
+archEscritura= open('Resultados1.txt', 'w')
 archEscritura.write("%1. Title: BT database\n")
 archEscritura.write("@DATA\n")
 lineas=archLectura.readlines()
@@ -35,10 +35,9 @@ for linea in lineas:
     if len(puesto)==5 and puesto[0].isdigit() and puesto[1].isdigit() and puesto[2].isdigit():
         clase = puesto[1]
         trabajo = puesto[3]
-        lineaTotal += restoLinea[0]
-        print restoLinea
-        lineaTotal += " $ "
-        lineaTotal += restoLinea[1]
+        #lineaTotal += restoLinea[0]
+        #lineaTotal += " $ "
+        #lineaTotal += restoLinea[1]
         #lineaTotal+=clase
         #lineaTotal += " "
         #lineaTotal+=trabajo
@@ -82,11 +81,10 @@ while count < len(words) :
             primero = 2
         ncomments = []
         ncomments.append(nword[1])
-        while words[count]!= " $ ":
-            trabajo += words[count]
-            count +=1
-        ncomments.append(trabajo)
-        count +=1
+        #while words[count]!= " $ ":
+            #trabajo += words[count]
+            #count +=1
+        #ncomments.append(trabajo)
     if len(nword)<2:
         nword = strip_accents(words[count])
         exclude = set(string.punctuation)
@@ -94,8 +92,6 @@ while count < len(words) :
         nword = nword.lower()
         ncomments.append(nword)
     count +=1
-    
-    #print ncomments
 #quitamos los stop words
 #hacemos un stemming snowball
     
