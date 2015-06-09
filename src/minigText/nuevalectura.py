@@ -34,7 +34,7 @@ for linea in lineas:
     restoLinea = linea.split('"')
     puesto = restoLinea[0].split(',')
     
-    if len(puesto)==5 and puesto[0].isdigit() and puesto[1].isdigit() and puesto[2].isdigit():
+    if len(puesto)>=5 and puesto[0].isdigit() and puesto[1].isdigit() and puesto[2].isdigit():
         if primero==2 and len(lineaTotal)>1:
             blob=TextBlob(lineaTotal.decode('utf-8'))
 #separamos en palabras
