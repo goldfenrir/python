@@ -18,6 +18,48 @@ def strip_accents(s):
         if unicodedata.category(c) != 'Mn')
 
 
+def imprimir_resto(lineaTotal):
+    blob=TextBlob(lineaTotal.decode('utf-8'))
+#separamos en palabras
+    words=blob.words
+    for word in words:
+        nword = strip_accents(word)
+        exclude = set(string.punctuation)
+        nword = ''.join(ch for ch in nword if ch not in exclude)
+        ncomments.append(nword)
+    comentarios=[]
+    stemmer = SnowballStemmer("spanish")
+    count = 0
+    for word in ncomments:    
+        if count < 2:
+            exclude = set(string.punctuation)
+            word = ''.join(ch for ch in word if ch not in exclude)
+            word = word.lower()
+                    #word = strip_accents(word)
+            comentarios.append(word)
+        else:
+            if word not in (stopwords.words('spanish')):#Elimnimar Stop words
+                           
+        #comentarios.append(w)
+                exclude = set(string.punctuation)
+                word = ''.join(ch for ch in word if ch not in exclude)
+                word = word.lower()
+                word = strip_accents(word)
+                w=Word(word) 
+                comentarios.append(stemmer.stem(w.lower()))
+        count += 1
+        
+    ulist = []
+    for com in comentarios:
+        if com not in ulist:
+            ulist.append(com)
+         
+    for com in ulist:
+        com = filter(lambda x: x in string.printable, com)
+        archEscritura.write(com)
+        archEscritura.write(",")
+    archEscritura.write("\n")
+    
 archLectura=open('TA_Registros_etiquetados.csv','r')#Leer archivo
 
 archEscritura= open('Resultados1.txt', 'w')
@@ -33,50 +75,9 @@ primero = 1
 for linea in lineas:
     restoLinea = linea.split('"')
     puesto = restoLinea[0].split(',')
-    
     if len(puesto)>=5 and puesto[0].isdigit() and puesto[1].isdigit() and puesto[2].isdigit():
         if primero==2 and len(lineaTotal)>1:
-            blob=TextBlob(lineaTotal.decode('utf-8'))
-#separamos en palabras
-            words=blob.words
-            for word in words:
-                nword = strip_accents(word)
-                exclude = set(string.punctuation)
-                nword = ''.join(ch for ch in nword if ch not in exclude)
-                ncomments.append(nword)
-            comentarios=[]
-            stemmer = SnowballStemmer("spanish")
-            count = 0
-            for word in ncomments:    
-                if count < 2:
-                    exclude = set(string.punctuation)
-                    word = ''.join(ch for ch in word if ch not in exclude)
-                    word = word.lower()
-                    #word = strip_accents(word)
-                    comentarios.append(word)
-                else:
-                    if word not in (stopwords.words('spanish')):#Elimnimar Stop words
-                           
-        #comentarios.append(w)
-                        exclude = set(string.punctuation)
-                        word = ''.join(ch for ch in word if ch not in exclude)
-                        word = word.lower()
-                        word = strip_accents(word)
-                        w=Word(word) 
-                        comentarios.append(stemmer.stem(w.lower()))
-                count += 1
-        
-            ulist = []
-            for com in comentarios:
-                if com not in ulist:
-                    ulist.append(com)
-         
-            for com in ulist:
-                com = filter(lambda x: x in string.printable, com)
-                archEscritura.write(com)
-                archEscritura.write(",")
-            archEscritura.write("\n")
-            
+            imprimir_resto(lineaTotal)
         else:
             primero = 2
         ncomments = []
@@ -110,51 +111,14 @@ for linea in lineas:
             for lin in restoLinea[1:]:
                 print lin
                 lineaTotal+=lin
-            blob=TextBlob(lineaTotal.decode('utf-8'))
-#separamos en palabras
-            words=blob.words
-            for word in words:
-                nword = strip_accents(word)
-                exclude = set(string.punctuation)
-                nword = ''.join(ch for ch in nword if ch not in exclude)
-                ncomments.append(nword)
-            comentarios=[]
-            stemmer = SnowballStemmer("spanish")
-            count = 0
-            for word in ncomments:    
-                if count < 2:
-                    exclude = set(string.punctuation)
-                    word = ''.join(ch for ch in word if ch not in exclude)
-                    word = word.lower()
-                    #word = strip_accents(word)
-                    comentarios.append(word)
-                else:
-                    if word not in (stopwords.words('spanish')):#Elimnimar Stop words
-                           
-        #comentarios.append(w)
-                        exclude = set(string.punctuation)
-                        word = ''.join(ch for ch in word if ch not in exclude)
-                        word = word.lower()
-                        word = strip_accents(word)
-                        w=Word(word) 
-                        comentarios.append(stemmer.stem(w.lower()))
-                count += 1
-        
-            ulist = []
-            for com in comentarios:
-                if com not in ulist:
-                    ulist.append(com)
-         
-            for com in ulist:
-                com = filter(lambda x: x in string.printable, com)
-                archEscritura.write(com)
-                archEscritura.write(",")
-            archEscritura.write("\n")
+            imprimir_resto(lineaTotal)
             lineaTotal = ""
         #lineaTotal += restoLinea[]
         #print lineaTotal
     else:
         lineaTotal+=linea
+
+imprimir_resto(lineaTotal)
         
 count = 0
 primero = 1
