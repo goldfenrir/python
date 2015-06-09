@@ -23,7 +23,7 @@ def imprimir_resto(clase, puesto, descrip, req):
     archEscritura.write(",")
     blobPuesto = TextBlob(puesto.decode('utf-8'))
     blobDescrip = TextBlob(descrip.decode('utf-8'))
-    blobReq = TextBlob(req.decode('utf8'))
+    blobReq = TextBlob(req.decode('utf8', 'ignore'))
     wordsPuesto = blobPuesto.words
     wordsDescrip = blobDescrip.words
     wordsReq = blobReq.words
@@ -78,16 +78,16 @@ lineas=archLectura.readlines()
 #print "Read Line: %s" % (lineas)
 lineaTotal=""
 ind = 0
-clase = ""
-trabajo = ""
+clase = " "
+trabajo = " "
 primero = 1
-descrip = ""
+descrip = " "
 count = 0
 while count < len(lineas):
     lineaClase = ""
-    lineaPuesto = ""
-    lineaDescrip = ""
-    lineaReq = ""
+    lineaPuesto = " "
+    lineaDescrip = " "
+    lineaReq = " "
     restoLinea = lineas[count].split('"')
     puesto = restoLinea[0].split(',')
     lineaClase = puesto[1]
@@ -95,7 +95,7 @@ while count < len(lineas):
     aux = ""
     for lin in restoLinea[1:]:
         aux += lin
-    if'","' not in aux:
+    if '","' not in lineas[count]:
         lineaDescrip +=aux
         count += 1
         while '","' not in lineas[count]:
