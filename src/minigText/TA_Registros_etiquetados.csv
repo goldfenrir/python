@@ -2479,7 +2479,7 @@
  •Revisar precisión de la información (evitar duplicidad, contrastar vs contratos, etc).
  •Consolidar la información en un archivo Excel.
  •Analizar la información.
- •Elaborar informes y presentaciones.",
+ •Elaborar informes y presentaciones.","
 261,3,44121545,Practicante del área Técnica,"Dar soporte al área técnica.
  Revisar la programación semanal de los servicios técnicos.
  Realizar seguimiento a las cotizaciones del área.
@@ -2513,7 +2513,7 @@
 265,6,44121580,Practicante de Gestión Interna y Monitoreo,"Apoyo en el seguimiento y control de proyectos tecnológicos.
  Apoyo en la implementación y optimización de procesos.
  Apoyo en la administración de la documentación de proyectos.
- Apoyo en la elaboración de informes de proyectos.",Contar con conocimientos de Microsoft Project.
+ Apoyo en la elaboración de informes de proyectos.","Contar con conocimientos de Microsoft Project.
 266,4,44121583,Analista de Investigación de Mercado de Tecnología,"-Experience in Marketing areas within it companies or distribution channels of retaill.
  -We are looking for ndividuals who are team players and want a professional that will give them knowledge of the IT industry.
  -1- 3 years or more of professional in any of the previously mentioned areas.
@@ -2597,7 +2597,7 @@
 274,4,44121679,Administrador de Base de Datos,"-Mantener las bases de datos para el EBS de Oracle, GEMINIS y el sistema de RRHH.
  -Ejecutar tareas de respaldo y recuperación de las Bases de Datos antes mencionadas.
  -Asegurarse del buen funcionamiento de las Bases de Datos antes mencionadas.
- -Mantener los sistemas operativos de los servidores de las Bases de Datos antes mencionadas.",minima de 4 años
+ -Mantener los sistemas operativos de los servidores de las Bases de Datos antes mencionadas.","minima de 4 años
 275,1,44121696,Especialista de Diseño y Desarrollo - Medios de Pago,"Especialista en Programación de Cajeros
  Desarrollo de encriptación de claves
  Manejos y personalización de switch de comunicaciones
@@ -2610,7 +2610,7 @@
  Manejo de lenguajes de programación Cobol, Java y Oracle."
 276,4,44121731,Practicante de Gestión y Automatización de Procesos,"- Manejo y Análisis de las Bases de Datos de los reportes necesarios para la elaboración de Indicadores.
  - Proponer acciones de mejora para los procesos del área para automatizarlos.
- - Apoyo en la gestión administrativa del área.",Conocimiento avanzado de Excel para la elaboración de diferentes reportes.
+ - Apoyo en la gestión administrativa del área.","Conocimiento avanzado de Excel para la elaboración de diferentes reportes.
 277,1,44121749,Desarrollador Java,"- Interacción directa con el cliente para identificar la aplicación de requerimientos.
  - Determinar la mejor manera para implementar los requerimientos en código.
  - Demostrarle al cliente el comportamiento del software.","- Conocimientos y experiencia en Java EE, EJB, JAVASCRIPT, HTML, CSS o jQuery
@@ -2620,7 +2620,7 @@
  - De preferencia conocimientos en MVC.
  - Interés y conocimientos por Metodologías ágiles."
 278,1,44121750,Desarrollador en ASP Clásico,"- Darle mantenimiento a una aplicación que es mezcla de tecnología ASP Clásico y Java.
- - Trabajar bajo metodología Scrum con cliente del extranjero.",- Experiencia trabajando con ASP Clásico.
+ - Trabajar bajo metodología Scrum con cliente del extranjero.","- Experiencia trabajando con ASP Clásico.
 279,1,44121752,Desarrollador Web PHP,"Interacción directa con el cliente para identificar la aplicación de requerimientos.
  Determinar la mejor manera para implementar los requerimientos en código.
  Demostrarle al cliente el comportamiento del software.
@@ -2655,7 +2655,7 @@
  Conocimientos sólidos de base de datos: access, sql server 2005, sql server 2008, mysql y fundamentos de oracle.
  Manejador de reportes crystal reports y reporting services.
  Conocimiento de sistemas operativos windows y linux.
- Conocimiento y/o experiencia en sistemas contables y financieros (importante).",
+ Conocimiento y/o experiencia en sistemas contables y financieros (importante).","
 283,5,44121771,Soporte Técnico,"Soluciones técnicas, mantenimiento y análisis de daños, presupuesto de hardware, mantenimiento de servidores, Exchange y Oracle básico.","Ingeniero de Sistemas, Electrónico o afín.
  Grado alcanzado: Bachiller.
  Mínimo 2 años de experiencia en Soporte Técnico con nivel avanzado.
@@ -2732,7 +2732,7 @@
  Proponer mejoras a los procesos de la empresa.
  Actualizar y dar seguimiento al marketing digital de la empresa.
  Crear diseños de imágenes por campañas publicitarias.
- Otros.",No indispensable.
+ Otros.","No indispensable.
 290,6,44121835,ASISTENTE COMERCIAL,"- Garantizar la confiabilidad y entrega de la información de las encuestas de Campo aplicadas a nivel nacional.
  - Mantener actualizada la información de actividades planificadas y resultados estratégicos del área comercial.
  - Elaborar el estudio y análisis de precios del mercado
@@ -2816,7 +2816,7 @@
  -Experiencia mínima de 1 año en programación Visual Studio 2012 y SQL Server 2008."
 302,3,44121906,Seguridad de la Información,"Responsable de velar por la seguridad de la información dentro del alcance de los servicios.
  
- Asesorar a la organización de Seguridad de la información del cliente, así como otras funciones que el cliente estime conveniente para garantizar la seguridad de los servicios requeridos.",Habilidad para interrelacionarse en los diferentes niveles de la organización.
+ Asesorar a la organización de Seguridad de la información del cliente, así como otras funciones que el cliente estime conveniente para garantizar la seguridad de los servicios requeridos.","Habilidad para interrelacionarse en los diferentes niveles de la organización.
 303,3,44121911,Analista de seguridad de TI Junior,"Misión:Realizar actividades de prevención de riesgos y seguridad de tecnología de información con el fin de contribuir con el cumplimiento de las normas y estándares de la empresa.
  
  FUnciones:
@@ -2868,7 +2868,7 @@
  Capaz de asumir retos y buscar soluciones desde una perspectiva global, interactuando a todo nivel.
  Alta capacidad de análisis, dinamismo, comunicación a todo nivel, innovación, tolerancia a la presión, compromiso.
  Habilidades de gestión."
-306,3,44121924,Practicante de Auditoría de Sistemas,Apoyo en el área de Auditoría de Sistemas.,"Conocimientos en seguridad de infraestructura, plataformas de TI (UNIX/AIX/Windows/As-400/mainframe), bases de datos, desarrollo de sistemas, implantación de software.
+306,3,44121924,Practicante de Auditoría de Sistemas,"Apoyo en el área de Auditoría de Sistemas.","Conocimientos en seguridad de infraestructura, plataformas de TI (UNIX/AIX/Windows/As-400/mainframe), bases de datos, desarrollo de sistemas, implantación de software.
  Experiencia en manejo de altos volúmenes de datos con cualquier herramienta disponible (SQL. ACL, IDEA, etc)."
 307,6,44121926,Jefe de Logística,"•Gestionar y liderar las compras, coordinando con las diferentes áreas de la empresa el correcto aprovisionamiento de acuerdo al presupuesto aprobado.
  •Gestionar en forma eficiente el aprovisionamiento de la empresa.
@@ -2977,8 +2977,8 @@
  Experiencia en desarrollo de aplicaciones desktop, Web con Visual Studio.Net 2005,2008,2010.
  Experiencia en desarrollo para Base de Datos Sql Server 2000,2008, Transact SQL, Store Procedures, Funciones, Vistas, Jobs.
  Conocimientos en desarrollo de aplicaciones para dispositivos móviles."
-319,3,44122030,Becario Profesional TI,Soporte en los procesos de redes y programación.,No requerido.
-320,3,44122033,Becario Profesional TI,Desarrollo y soporte de aplicaciones.,"Experiencia no requerida.
+319,3,44122030,Becario Profesional TI,"Soporte en los procesos de redes y programación.","No requerido.
+320,3,44122033,Becario Profesional TI,"Desarrollo y soporte de aplicaciones.","Experiencia no requerida.
  Softwares: NET 2010, SQL SERVER 2008, Reporting Services."
 321,5,44122201,Practicante de ingeniería,"- Diseño de sistemas domóticos
  - Diseño de sistemas electrónicos
@@ -3028,7 +3028,7 @@
 325,3,44122231,Ingeniero de Sistemas,"- Brindar soporte administrativo de redes de IT y comunicaciones en los proyectos en curso.
  - Brindar soporte técnico a servidores y equipos de comunicaciones, cuando sea necesario.
  - Proporciona soporte de niveles 1 y 2 a los empleados, instala y proporciona el mantenimiento del hardware, software, impresoras y periféricos; cuando le sea requerido.","Experiencia trabajando en proyectos bajo régimen (Proyecto Constancia en el Cuzco, régimen: 21x7)."
-326,6,44122259,Practicante de Estrategia y Planificación de Riesgos,"Ayudar en la gestión de elaboración, análisis, presentación y automatización de métricas crediticias.",No requeridos.
+326,6,44122259,Practicante de Estrategia y Planificación de Riesgos,"Ayudar en la gestión de elaboración, análisis, presentación y automatización de métricas crediticias.","No requeridos.
 327,6,44122265,Practicante de Contratos & Procura,"Responsabilidades:
  -Solicitar cotizaciones a los proveedores para las compras de acuerdo a la política de compras y contratos.
  -Negociación de condiciones comerciales de los procesos asignados.
@@ -3086,7 +3086,7 @@
  Conocimiento en desarrollo web en Vb 6, manejo de base de datos sql 2005 y/u Oracle 10g, vb6 .net
  Deseable conocimiento de Ingles a nivel básico - intermedio.
  Se valorará experiencia en el rubro de Banco y/o Seguros."
-332,4,44122305,Analista Visual Basic 6 .Net,Nos encontramos en la búsqueda de un profesional de sistemas con experiencia realizando análisis de requerimientos y diseño de soluciones de desarrollo e implementación con la herramienta Microsoft .NET. para desempeñarse como Analista Visual Basic 6 .Net,"- Mínimo contar con 2 a 3 años realizando el analisis de requerimientos, diseño de soluciones de desarrollo e implementación y reportar los avances con herramienta Microsoft .NET.
+332,4,44122305,Analista Visual Basic 6 .Net,"Nos encontramos en la búsqueda de un profesional de sistemas con experiencia realizando análisis de requerimientos y diseño de soluciones de desarrollo e implementación con la herramienta Microsoft .NET. para desempeñarse como Analista Visual Basic 6 .Net","- Mínimo contar con 2 a 3 años realizando el analisis de requerimientos, diseño de soluciones de desarrollo e implementación y reportar los avances con herramienta Microsoft .NET.
  Conocimiento en desarrollo web en Vb 6, manejo de base de datos sql 2005 y/u Oracle 10g, vb6 .net
  Se valorará experiencia en el rubro de Banco y/o Seguros."
 333,4,44122308,Trainee Ingeniería Informática,"-Participar en el proyecto de implementación de sistemas al core del negocio de una empresa de seguros.
@@ -3109,11 +3109,11 @@
  Mínimo contar con 2 a 3 años realizando funciones de programación con C++.
  Experiencia en elaboración del diseño técnico y documentación, análisis de requerimientos, programación y haber participado en pases a producción.
  Se valorará experiencia en el rubro de Banco y/o Seguros."
-336,1,44122313,Asistente Java,Diseño y desarrollo de aplicaciones en base al requerimiento del cliente.,"- Mínimo contar con 1 a 2 años de Experiencia en JAVA.
+336,1,44122313,Asistente Java,"Diseño y desarrollo de aplicaciones en base al requerimiento del cliente.","- Mínimo contar con 1 a 2 años de Experiencia en JAVA.
  - Conocimientos y experiencia en desarrollo de aplicaciones utilizando JAVA y frameworks.
  - Deseable conocimiento de Ingles a nivel intermedio.
  - Se valorará experiencia en el rubro de Banco y/o Seguros."
-337,4,44122314,Practicante Soporte de BPM,Apoyo en el Área de Soporte de BPM.,"Conocimiento básico de programación en .NET.
+337,4,44122314,Practicante Soporte de BPM,"Apoyo en el Área de Soporte de BPM.","Conocimiento básico de programación en .NET.
  Conocimiento básico de programación en Web.
  Conocimiento básico de base de datos SQL Server y/o Oracle.
  Manejo de Word y Excel a nivel avanzado.
@@ -3155,7 +3155,7 @@
  - Investigación de librerías y componentes de software.
  - Diseño de interfaces de usuario.
  - Programación en .NET, PHP, JAVA, Visual Basic, Power Builder y dispositivos móviles.
- - Diseño, documentación e implementación de bases de datos: SQL Server, Oracle, MySQL.",- Interés por especializarse en ingeniería de software.
+ - Diseño, documentación e implementación de bases de datos: SQL Server, Oracle, MySQL.","- Interés por especializarse en ingeniería de software.
 343,3,44122352,Administrador de redes y comunicaciones,"Mantener las redes y enlaces de comunicaciones operativos, de manera eficiente y segura así como monitorearla en forma constante para tomar medidas correctivas de manera oportuna:
  1. Asegurar la continuidad en la operación de la red con mecanismos adecuados de control y monitoreo, de resolución de problemas y de suministro de recursos
  2. Administrar cuentas de usuarios, crear y administrar grupos, administrar acceso a los recursos a nivel usuario y/o administrador
@@ -3184,7 +3184,7 @@
  Visual Basic 6
  MS SQL Server
  Oracle"
-345,6,44122378,Asistente de Productividad,Realizar las mediciones de campo en las tiendas y en el horario establecido siguiendo tanto las pautas como la metodología establecida identificando oportunidades de mejora para los procesos observados y/o medidos.,"- Mínimo experiencia de 6 meses en empresas.
+345,6,44122378,Asistente de Productividad,"Realizar las mediciones de campo en las tiendas y en el horario establecido siguiendo tanto las pautas como la metodología establecida identificando oportunidades de mejora para los procesos observados y/o medidos.","- Mínimo experiencia de 6 meses en empresas.
  - Experiencia en medición de tiempos.
  - Deseable experiencia en campo.
  - Indispensable disponibilidad para trasladarse entre tiendas."
@@ -3266,7 +3266,7 @@
 353,3,44122465,Analista Programador- Cobranzas,"Analizar, diseñar, implementar y mantener los sistemas del Área de Cobranzas con el propósito de proporcionar la solución tecnológica más conveniente para el negocio que permita lograr mayor eficiencia operativa, disminuir provisiones, generar ingresos, garantizando los niveles de servicio acordados con los usuarios y cumpliendo con los procedimientos de gestión y desarrollo de proyectos establecidos.","• Experiencia: 1 año como Analista Programador.
  
  • Conocimientos de Programación de aplicaciones cliente/servidor y web. Conocimiento avanzado en .Net, JavaScript, Vbasic, SQL y Oracle."
-354,4,44122466,Analista Funcional de Sistemas,Funciones de Analista Funcional de Sistemas para plataforma Socrates.,"-Visual Studio.net 2005.
+354,4,44122466,Analista Funcional de Sistemas,"Funciones de Analista Funcional de Sistemas para plataforma Socrates.","-Visual Studio.net 2005.
  -Base de Datos Oracle Nivel Intermedio, Avanzado.
  -Oracle Forms (Opcional).
  -Base de Datos SQL Server ."
@@ -3294,7 +3294,7 @@
  •Efectuar estudios de factibilidad de proyectos. Velar por el cumplimiento de los estándares y buenas prácticas de los desarrollos.
  •Asegurar la ejecución del pedido de prueba para garantizar el proceso de facturación país.
  •Proponer y optimizar soluciones y procesos de negocio existentes.
- •Soporte a las áreas usuario sobre las aplicaciones ya implementadas en la operación.",•Experiencia de 2 años como mínimo en posiciones similares.
+ •Soporte a las áreas usuario sobre las aplicaciones ya implementadas en la operación.","•Experiencia de 2 años como mínimo en posiciones similares.
 359,4,44122476,Asistente de Mejora de Procesos,"Efectuar el análisis de los procesos que se prioricen, realizando el levantamiento de información, proponiendo mejoras y
  haciendo el seguimiento a las mejoras por implementar.
  
@@ -18721,7 +18721,7 @@
  2. Mantenimiento del site del servicio y área en Sharepoint.
  3. Elaboración de Informes y presentaciones en herramientas de MS office ( Powerpoint, excel, word, visio).
  4. Gestion de herramientas de la Arquitectura Empresarial.
- 5. Apoyo al equipo de Arquitectos de Dominios.",Deseable en Sharepoint
+ 5. Apoyo al equipo de Arquitectos de Dominios.","Deseable en Sharepoint
 1901,1,44132725,Programador .Net,"- Efectuar el desarrollo y pruebas unitarias de los programas o componentes requeridos según las especificaciones funcionales y técnicas, a fin de cumplir con los requerimientos especificados.
  
  - Realizar las integraciones y pruebas integrales, asegurando la calidad del producto desarrollado. Puede encargarse de la documentación como manuales de la aplicación.
@@ -18801,17 +18801,17 @@
  Evaluar el diseño, alcance y funcionamiento del control interno.
  Informar inmediatamente a su sub jefatura el resultado de las labores y actividades desarrolladas en el ejercicio de sus funciones, dando prioridad a los hechos significativos.
  Llevar a cabo la planificación y ejecución de las actividades encargadas.
- Evaluar continuamente el cumplimiento de las disposiciones legales y normativa interna de CMAC; así como, proponer a su sub jefatura modificaciones a la normativa interna.",
+ Evaluar continuamente el cumplimiento de las disposiciones legales y normativa interna de CMAC; así como, proponer a su sub jefatura modificaciones a la normativa interna.","
 1907,3,44132740,Gestor de Servicios SAP,"- Negociación.
  - Impacto e influencia.
- - Comunicación Efectiva.",1 año en servicios TI.
+ - Comunicación Efectiva.","1 año en servicios TI.
 1908,6,44132747,Analista de TI Back Office,"Realizar el seguimiento de los procesos existentes para determinar los puntos relevantes de mejora.
  Establecer relaciones con todas las áreas de la compañía para entender el negocio en su totalidad de tal manera que se puedan proponer mejoras sustanciales y de gran impacto.
- Participar en las reuniones de toma de decisiones para proponer alternativas de solución tecnológica.",
+ Participar en las reuniones de toma de decisiones para proponer alternativas de solución tecnológica.","
 1909,1,44132749,Analista Programador en Genexus,"Conocimiento de herramientas de desarrollo Genexus (versiones: 8.0, 9.0, X, Evolution, etc)y aplicación web.
  Conocimiento de lenguajes: Java, .NET, y Visual Basic.
  Conocimiento en el manejo de base de datos: SQL Server.
- Gran capacidad de análisis.",Experiencia mínima de 03 años en programación (desarrollo de aplicaciones e implementación y manejo de programas informáticos) y 02 años en desarrollo Genexus.
+ Gran capacidad de análisis.","Experiencia mínima de 03 años en programación (desarrollo de aplicaciones e implementación y manejo de programas informáticos) y 02 años en desarrollo Genexus.
 1910,6,44132755,Practicante de Soporte,"Practicante para atención a usuarios por incidencias de primer y segundo nivel, despliegues y atención de requerimientos del área.","Experiencia : Haber realizado prácticas o laborado en Soporte (deseable)
  
  Sistemas y Computación : Dominio de plataforma Windows (7 y 8), arquitectura de computadores,redes y cableado estructurado.
@@ -18826,7 +18826,7 @@
  • Conocimiento y experiencia de manejadores de Base de Datos.
  • Conocimiento y experiencia en herramientas de desarrollo.
  • Conocimiento en sistemas operativos.
- • Experiencia mínima de tres (3) años como analista en proyectos de Tecnologías de Información.",Experiencia mínima de tres (3) años como analista en proyectos de Tecnologías de Información.
+ • Experiencia mínima de tres (3) años como analista en proyectos de Tecnologías de Información.","Experiencia mínima de tres (3) años como analista en proyectos de Tecnologías de Información.
 1912,1,44132817,Practicante de Planificación,"•Documentación de procesos en base a reuniones entre los usuarios y corporación.
  •Apoyo al analista de desarrollo en pruebas, cargas masivas (Proyectos y mejoras de empresas del grupo romero).","•Como mínimo un trabajo en temas de sistemas, de procesos o proyectos."
 1913,1,44132818,SENIOR Software Engineer,"Java software development.
@@ -18897,7 +18897,7 @@
  Preparar Performance de COMEX y Fianzas.
  Preparar reporte con principales caídas y crecimientos de Cartas Fianza y Comex versus Ppto.
  Preparar los reportes de seguimiento de Campañas.
- Enviar Bases de datos de clientes desertores de transferencias.",Mínimo 3 meses de experiencia con Manejo y administración de bases de datos y analisis.
+ Enviar Bases de datos de clientes desertores de transferencias.","Mínimo 3 meses de experiencia con Manejo y administración de bases de datos y analisis.
 1919,3,44132859,ESPECIALISTA DE NETWORKING Junior,"•Realizar el montaje y configuración de los equipos de Networking.
  •Ejecutar los protocolos de pruebas y completar las cartillas de instalación al finalizar las instalaciones
  •Realizar el registro en el sistema de gestión de postventa, indicando las actividades realizadas en las instalaciones de servicios
@@ -19016,7 +19016,7 @@
 1927,6,44132924,Analista de Evaluación Comercial,"Realizar las evaluaciones de rentabilidad de planes, productos, servicios y nuevas coberturas.
  Realizar las evaluaciones de comisiones e incentivos de todo canal de venta.
  Realizar el seguimiento de las ofertas y planes aprobados puestas en el mercado.
- Brindar apoyo en el proceso de definición y seguimiento de objetivos y proyectos de las Direcciones de la organización.",Experiencia en gestión de indicadores y fundamentos financieros.
+ Brindar apoyo en el proceso de definición y seguimiento de objetivos y proyectos de las Direcciones de la organización.","Experiencia en gestión de indicadores y fundamentos financieros.
 1928,1,44132942,Jefe de Programación FrontEnd,"Phantasia, empresa de Marketing Digital, está en la búsqueda del mejor capital humano para incorporarse a su staff de profesionales. Actualmente nos encontramos en la búsqueda de un JEFE DE PROGRAMACIÓN FRONTEND que cumpla con el siguiente perfil:
  
  Funciones:
@@ -19068,7 +19068,7 @@
 1931,5,44132959,Practicante de Sistemas,"Mantenimiento de los equipos, detección y resolución de averías.
  Instalación Windows 7 y optimización del rendimiento.
  Instalación y actualización de software.
- Atención a usuarios (consultas, preguntas frecuentes, información general, resolución de problemas, asesoramiento).",Contar con experiencia mínima de 3 meses realizando prácticas.
+ Atención a usuarios (consultas, preguntas frecuentes, información general, resolución de problemas, asesoramiento).","Contar con experiencia mínima de 3 meses realizando prácticas.
 1932,4,44132971,Jefe de Proyectos JAVA,"-Dirigir a un equipo conformado de 7 analistas programadores el cual crecerá a 10 personas en el corto plazo.
  -Liderar la implementación de un portafolio de proyectos usando tecnologías Java, .NET y C++.
  -Ser el responsable de la implementación del nuevo proyecto de Facturas Electrónicas: Versión 2, versiones en móviles y web.
@@ -19190,7 +19190,7 @@
  Asistir en el envío de Notificación de Tarifas.
  Asistir en la administración de Sistema de Billing.
  Emisión de CDRs para nuestros clientes.
- Realizar prueba de llamadas que ayuden a identificar rutas (carriers) de destinos de buena calidad y bajo costo.",
+ Realizar prueba de llamadas que ayuden a identificar rutas (carriers) de destinos de buena calidad y bajo costo.","
 1946,1,44133063,Desarrollador Android,"Asistir a Desarrolladores Senior en proyectos de gran envergadura.
  Administrar y manejar proyectos asignados dentro de los plazos establecidos.
  Apoyar a nuestros desarrolladores en el área de investigación y desarrollo.","Conocimientos intermedios en Java (paquetes, clases, Serlvet, Frameworks)
@@ -19273,7 +19273,7 @@
  
  Analizar la información.
  
- Elaborar informes y presentaciones.",
+ Elaborar informes y presentaciones.","
 1954,6,44133096,02 CONSULTORES DE VENTAS,"Apertura mercado tanto del sector designado como clientes directos.
  Realizar demostraciones de los productos y servicios de la empresa.
  Seguir la política de precios de la compañía y las condiciones de venta.
@@ -19290,8 +19290,8 @@
  • Buscar la integración y la reducción de la complejidad técnica en cada solución generada por los proyectos manejados.","• Experiencia a partir de 2 años liderando equipos de trabajo.
  • Experiencia indispensable en implementación de SAP.
  • Conocimiento y experiencia en metodología de Proyectos."
-1956,6,44133121,Practicante de Tráfico y Liquidaciones,"Apoyo en los reportes y procesos de liquidaciones de tráficos cursados entre operadores moviles, fijos, LD, Servicios de Valor agregado.",No indispensable.
-1957,6,44133123,Practicante de Servicio y operaciones al cliente - Personas,"Gestión Administrativa del proceso de venta del canal personas. Elaboración y monitoreo de indicadores de servicios. Detención preventiva de fraude, monitoreo de la recepción de contratos y resolución de reclamos de clientes. Brindar apoyo a los diferentes canales del Mercado Personas.",No indispensable.
+1956,6,44133121,Practicante de Tráfico y Liquidaciones,"Apoyo en los reportes y procesos de liquidaciones de tráficos cursados entre operadores moviles, fijos, LD, Servicios de Valor agregado.","No indispensable.
+1957,6,44133123,Practicante de Servicio y operaciones al cliente - Personas,"Gestión Administrativa del proceso de venta del canal personas. Elaboración y monitoreo de indicadores de servicios. Detención preventiva de fraude, monitoreo de la recepción de contratos y resolución de reclamos de clientes. Brindar apoyo a los diferentes canales del Mercado Personas.","No indispensable.
 1958,6,44133127,Especialista de Seguridad de la Informaciòn,"•Efectuar el seguimiento a las Auditorias tanto internas como externas.
  •Mantenimiento de Políticas, Normas y Procedimientos concernientes a Seguridad.
  •Coordinador de los sistemas de Calidad aplicados a la unidad (Certificaciones ISO y PCI).
@@ -19345,7 +19345,7 @@
  • Eps al 100%.
  • Convenios Institucionales.
  • Oportunidad de línea de carrera.
- • Mínimo de 3 a 6 meses en puestos similares.",
+ • Mínimo de 3 a 6 meses en puestos similares.","
 1962,3,44133162,Practicante de Tecnologías de la Información,"Apoyo en Supervisión de trabajos y acompañamiento a proveedores de infraestructura de TI.
  Apoyo en las revisiones de aplicación de parches de seguridad con WSUS de las estaciones de trabajo.
  Apoyo en la inspección física de Ambientes de Data Center y Telecom.
@@ -19372,7 +19372,7 @@
  Manejar programas adicionales como: .NET, SQL, UML, conocimiento de algún erp y BPM."
 1965,3,44133169,Programador PL SQL,"Accenture es una empresa global de consultoría en management, servicios de tecnología y outsourcing con ubicando en 120 países y colaborando con sus clientes para ayudarles a convertirse en empresas de alto desempeño. Nos encontramos en la búsqueda de un Programador PL SQL Oracle.","Experiencia de 1 año desarrollando en Oracle PL SQL.
  Contar con experiencia de 6 meses a más en Crystal Reports / SAP Business Objects 3.1 o algún reporteador."
-1966,1,44133171,Trainee - Visual Studio/ Visual Basic,"¡Únete a Accenture! Convierte en realidad tus ideas, trabajando para algunas de las empresas más dinámicas del mundo. Accenture es una empresa global de consultoría en management, servicios de tecnología y outsourcing. Combinando una experiencia incomparable, amplias capacidades en todas las industrias y funciones de negocios y una amplia investigación respecto de las empresas más exitosas del mundo. En la actualidad nos encontramos en la búsqueda de jóvenes profesionales o estudiantes de últimos ciclos de la carrera de Ingeniería de Sistemas, Informática o afines, técnicos o universitarios para integrarse a una prestigiosa empresa multinacional.",Interés en desarrollarse en diseño y programación de sistemas en Visual Studio/Visual Basic.
+1966,1,44133171,Trainee - Visual Studio/ Visual Basic,"¡Únete a Accenture! Convierte en realidad tus ideas, trabajando para algunas de las empresas más dinámicas del mundo. Accenture es una empresa global de consultoría en management, servicios de tecnología y outsourcing. Combinando una experiencia incomparable, amplias capacidades en todas las industrias y funciones de negocios y una amplia investigación respecto de las empresas más exitosas del mundo. En la actualidad nos encontramos en la búsqueda de jóvenes profesionales o estudiantes de últimos ciclos de la carrera de Ingeniería de Sistemas, Informática o afines, técnicos o universitarios para integrarse a una prestigiosa empresa multinacional.","Interés en desarrollarse en diseño y programación de sistemas en Visual Studio/Visual Basic.
 1967,6,44133182,Analista de Aseguramiento de Ingresos,"Analizar el flujo de ingresos desde la definición del producto hasta el recaudo.
  Identificar potenciales riesgos de fuga de ingresos.
  Proponer cambios a nivel de sistema/herramienta y proceso para mitigar las fugas a corto y mediano plazo.
@@ -19597,7 +19597,7 @@
  Seguimiento al cumplimiento de entregables y obtener las aceptaciones del cliente.
  Documentar el Proyecto.","Mínimo 02 años de experiencia liderando y/o gestionando proyectos de Tecnologías de la Información.
  Experiencia aplicando metodología de administración de proyectos corporativa definida con las mejores prácticas PMI/MSF o ITIL."
-1984,4,44133336,Analista de Calidad Junior,- Realizar el aseguramiento y control de calidad de soluciones informáticas.,"- Egresado reciente (año 2013 o 2014) de Universidad o Instituto de prestigio en la carrera de computación, informática, ingeniería de sistemas o afines
+1984,4,44133336,Analista de Calidad Junior,"- Realizar el aseguramiento y control de calidad de soluciones informáticas.","- Egresado reciente (año 2013 o 2014) de Universidad o Instituto de prestigio en la carrera de computación, informática, ingeniería de sistemas o afines
  - Conocimientos de herramientas y técnicas para el Control de Calidad de soluciones informáticas.
  - Habilidades para percibir detalles y errores.
  - Conocimiento del desarrollo de aplicaciones Web y de manejo de Bases de Datos.
@@ -19647,7 +19647,7 @@
  Beneficios adicionales: Posibilidad de acceso a clases de inglés y planes educativos subvencionados por la empresa.
  
  Disponibilidad requerida: INMEDIATA."
-1987,3,44133364,Practicante,"Obtener conocimiento para la Configuracion, reparacion, instalacion e Inventario de los distintos equipos de cómputo de la empresa y atencion a usuarios (HELP DESK).",Presentar CARTA DE PRESENTACION (es necesario) de su respectiva Universidad.
+1987,3,44133364,Practicante,"Obtener conocimiento para la Configuracion, reparacion, instalacion e Inventario de los distintos equipos de cómputo de la empresa y atencion a usuarios (HELP DESK).","Presentar CARTA DE PRESENTACION (es necesario) de su respectiva Universidad.
 1988,4,44133388,Analista de Sistemas,"-Participar en la formulación y evaluación de proyectos de tecnologías de la información y comunicaciones (TIC).
  -Identificar necesidades y oportunidades de aplicación de las TIC en el ámbito del sector salud.
  -Realizar el análisis y diseño para los proyectos de Sistemas de Información.
@@ -19741,7 +19741,7 @@
  •Redes Móviles, Plataformas OSS, Redes IP, Gestión de proyectos."
 2000,4,44133484,Business Intelligence Analyst,"Headquartered in Cincinnati, Ohio, Axcess Financial is an organization in the financial services industry that empowers consumers and businesses with financial solutions.
  We are seeking a Business Intelligence Analyst.
- General Function: As part of the Business Intelligence Unit, the Business Intelligence Analyst works closely with functional business users to identify and deliver reporting and analytics to help make data analysis faster and easier, enabling associates at every level to make more informed decisions on the internal operations of the company.",
+ General Function: As part of the Business Intelligence Unit, the Business Intelligence Analyst works closely with functional business users to identify and deliver reporting and analytics to help make data analysis faster and easier, enabling associates at every level to make more informed decisions on the internal operations of the company.","
 2001,4,44133487,Business Intelligence Senior Analyst,"Headquartered in Cincinnati, Ohio, Axcess Financial is a respected leader in the financial services industry that empowers consumers and businesses with financial solutions. We are seeking a Business Intelligence Senior Analyst.
  
  
@@ -20109,12 +20109,12 @@
  Experiencia en la ejecución de auditorías."
 2022,1,44133532,Programador Tecnología Cobol Vax,"Accenture es una empresa global de consultoría en management, servicios de tecnología y outsourcing. Combinando una experiencia incomparable, amplias capacidades en todas las industrias y funciones de negocios y una amplia investigación respecto de las empresas más exitosas del mundo.
  
- Nos encontramos en la búsqueda de un profesional de sistemas con experiencia en Programador Tecnología Cobol Vax.",Mínimo contar con 1 a 2 años realizando análisis de requerimientos y diseño de soluciones.
+ Nos encontramos en la búsqueda de un profesional de sistemas con experiencia en Programador Tecnología Cobol Vax.","Mínimo contar con 1 a 2 años realizando análisis de requerimientos y diseño de soluciones.
 2023,1,44133533,Programador Java,"Accenture es una empresa global de consultoría en management, servicios de tecnología y outsourcing. Combinando una experiencia incomparable, amplias capacidades en todas las industrias y funciones de negocios y una amplia investigación respecto de las empresas más exitosas del mundo.
  En la actualidad nos encontramos en la búsqueda de jóvenes profesionales o estudiantes de últimos ciclos de la carrera de Ingeniería de Sistemas, Informática o afines, técnicos o universitarios para integrarse a una prestigiosa empresa multinacional.
  Buscamos profesionales para desempeñarse como programadores Java para integrarse a una prestigiosa empresa multinacional.
  Funciones:
- - Diseño y desarrollo de aplicaciones en base al requerimiento del cliente.",
+ - Diseño y desarrollo de aplicaciones en base al requerimiento del cliente.","
 2024,1,44133534,Programador AS 400,"Accenture es una empresa global de consultoría en management, servicios de tecnología y outsourcing que colabora con sus clientes para ayudarles a convertirse en empresas de alto desempeño. En Accenture podrás unirte a más de 266.000 profesionales en 120 países y trabajar con clientes en casi todas las industrias más importantes del mundo. Los empleados en Accenture construyen su carrera en distintas áreas de negocio, específicamente en Consultoría, Tecnología y Outsourcing, como así también dentro de nuestras funciones corporativas internas.","Accenture es una empresa global de consultoría en management, servicios de tecnología y outsourcing que colabora con sus clientes para ayudarles a convertirse en empresas de alto desempeño. En Accenture podrás unirte a más de 266.000 profesionales en 120 países y trabajar con clientes en casi todas las industrias más importantes del mundo. Los empleados en Accenture construyen su carrera en distintas áreas de negocio, específicamente en Consultoría, Tecnología y Outsourcing, como así también dentro de nuestras funciones corporativas internas. Una organización comprometida con el trabajo en equipo y la colaboración.
  Experiencia mínima de 1 año viendo temas ligados a la programación
  Manejo de base de datos en DB2.
@@ -20176,7 +20176,7 @@
  - NetBeans (Entorno de Desarrollo).
  - iReport (Herramienta de diseño de Reportes).
  Manejo de Base de datos SQL Server, nivel intermedio.
- Manejo de Oracle nivel intermedio.",De preferencia 2 años de experiencia laboral en puestos similares.
+ Manejo de Oracle nivel intermedio.","De preferencia 2 años de experiencia laboral en puestos similares.
 2031,4,44133600,Analista de Administración de Personal - Mina,"•Responsable de la administración de personal, la consolidación y la generación de todos los datos del personal, por lo que todos los registros de datos de los empleados se mantienen actualizados.
  •Preparación de los contratos laborales sin sanciones pago y la coordinación con el Ministerio de Trabajo.
  •Monitoreo y Elaboración correcta de la nómina mensual, tomando la consolidación de datos de control.
@@ -20236,7 +20236,7 @@
  
  • Revisar y visar la solicitud de partes, repuestos y suministros para mantenimientos correctivos y preventivos de equipos.
  
- •Proponer políticas de seguridad de la información de los equipos de cómputo en mantenimiento.",3 años de experiencia en puestos similares.
+ •Proponer políticas de seguridad de la información de los equipos de cómputo en mantenimiento.","3 años de experiencia en puestos similares.
 2037,1,44133651,Programador Java,"Apoyo en documentación y mantenimiento de aplicativos.
  Interés en desarrollarse en una empresa de TI.","- Diseño y desarrollo de aplicaciones en base al requerimiento del cliente.
  - Mínimo contar con 1 a 2 años de Experiencia en JAVA y C+.
@@ -20247,7 +20247,7 @@
  Elaborar entregables del proyecto por hitos, según metodología de Gestión de Procesos. Además apoyar en la revisión y/o validación de dichos entregables con los usuarios líderes.
  Elaborar procedimientos operativos, de gestión, instructivos, manuales y/o guías del o las áreas que corresponda.
  Apoyar en el control documentario y almacenamiento.
- Apoyar al área de Procesos y Mejora Continua, en los proyectos que defina la Gerencia de TICA.",1 año de experiencia.
+ Apoyar al área de Procesos y Mejora Continua, en los proyectos que defina la Gerencia de TICA.","1 año de experiencia.
 2039,5,44133669,Administrador de Servidores y Redes,"Administración, configuración y soporte de la infraestructura de virtualización VMware VSPhere.
  Administración de los servicios Microsoft.
  Administración, y soporte de la plataforma Microsoft Exchange 2010.
@@ -20373,7 +20373,7 @@
 2048,1,44133719,Programador de software,"Programador de software.
  Conocimientos en: MySQL, PHP, Javascript, JQuery, programación de páginas web.","Conocimientos en: MySQL, PHP, Javascript, JQuery, programación de páginas web."
 2049,4,44133732,Practicante de Sistemas,"-Implementación de mejoras en el sistema de gestión de requerimientos.
- -Implementación de otras mejoras en los sistemas encargadas por el Jefe de proyectos.",
+ -Implementación de otras mejoras en los sistemas encargadas por el Jefe de proyectos.","
 2050,6,44133752,Analista de Costos y Presupuesto - obras,"Empresa de rubro METALMECÁNICO, se encuentra en búsqueda de un ANALISTA DE COSTO.
  
  RESPONSABILIDADES PRINCIPALES:
@@ -20408,7 +20408,7 @@
  
  Horario de trabajo de Lunes - Viernes 8:30am a 6:15pm y Sábados de 9:00am a 12:00pm"
 2052,3,44133764,Practicante de Consultoria TI,"Apoyo en programaciones.
- Otros que requiera el jefe inmediato.",Conocimiento en JAVA.
+ Otros que requiera el jefe inmediato.","Conocimiento en JAVA.
 2053,6,44133767,Consultor SAP- FI,"- Desarrollo de proyectos de implantación y mejora continua en empresas de primer nivel.
  -Formación de usuarios.","Experiencia mínima de 3 años en proyectos de implantación, mejora continua, roll-outs, en cualquiera de los siguientes Módulos:
  • SAP FI.
@@ -20461,7 +20461,7 @@
  Coordinación con la FFVV y respuesta a sus consultas y/o observaciones.
  Seguimiento y Reportes de Efectividad Comercial.
  Reportes y apoyo de Procesos y Proyectos.
- Administración de información del orgánico y ausencias programadas de la FFVV.",De preferencia Manejo de Información/ Excel Avanzado.
+ Administración de información del orgánico y ausencias programadas de la FFVV.","De preferencia Manejo de Información/ Excel Avanzado.
 2059,3,44133804,Especialista Senior en Seguridad de la Información,"Certificado LEAD AUDITOR ISO 27001 o LEAD IMPLEMENTER ISO 27001.
  Certificado en alguno de los siguientes: CISM, CISA, CRISC, CISSP, CBCP, LEAD AUDITOR ISO 22301 o LEAD IMPLEMENTER ISO 22301.
  Certificado PMP o con curso de Gestión de Proyectos basado en PMBOK mínimo de 40 horas en una REP .
@@ -20512,17 +20512,17 @@
  •Garantizar que el desarrollo de la solución se realice de acuerdo a las especificaciones de diseño y los estándares de desarrollo, en los plazos y con el presupuesto aprobado.
  •Vigilar la correcta aplicación de los estándares y metodologías de desarrollo de las aplicaciones, así como sugerir mejoras que sean necesarias.
  •Revisar, aprobar y mantener actualizados la documentación funcional de las aplicaciones, los estándares de operación y guias de usuario, concerniente a las aplicaciones a su cargo.","Experiencia previa (3 años) en actividades de consultoría para la mejora o implementación del sistema SAP ECC. Principalmente en alguno de los siguientes componentes FI/CO, HCM, Portal."
-2065,4,44133829,Practicante,Desarrollar actividades de Análisis y Programación en la Oficina de Informatica.,Presentar Carta de Presentacion de sus respectiva Universidad.
+2065,4,44133829,Practicante,"Desarrollar actividades de Análisis y Programación en la Oficina de Informatica.","Presentar Carta de Presentacion de sus respectiva Universidad.
 2066,4,44133833,Practicante de Inteligencia de Negocio,"Controlar las cargas en los procesos de Business Inteligence.
  Apoyar en el desarrollo de procesos de entrega de información.
- Apoyar en las diversas actividades del área y cumplir los requerimientos solicitados al área.",Interés en el área de BI
+ Apoyar en las diversas actividades del área y cumplir los requerimientos solicitados al área.","Interés en el área de BI
 2067,6,44133843,Practicante de Gestión de Proveedores,"1. Cálculo y generación de Indicadores de Gestión, elaboración de tableros de control.
  documentación de procesos, y otros de apoyo en labores operativas.
  2. Cruces y análisis de BBDD.
  3. Elaboración de estadísticas de indicadores de gestión.
  4. Levantamiento de información de procesos actuales y propuestas de optimización.
  5. Atención de consultas.
- 6. Apoyo en elaboración de informes y/o presentaciones.",No necesaria
+ 6. Apoyo en elaboración de informes y/o presentaciones.","No necesaria
 2068,1,44133860,Analista Programador .NET,"• Mantenimiento de sistemas de la Empresa.
  • Mantenimiento de interfaces.
  • Participación en la programación en .Net del nuevo sistema de producción.
@@ -20635,7 +20635,7 @@
 2085,1,44133920,Programador .Net,"Programación de aplicaciones Web ASP .NET con Visual Studio 2010 ó 2012.
  Conocimiento de ASP .NET Web Services con Visual Studio 2010 ó 2012.
  Experiencia en generación de formatos XML.
- Conocimiento en base de datos SQL Server 2008 ó 2012.",Buen nivel de comunicación oral y escrita.
+ Conocimiento en base de datos SQL Server 2008 ó 2012.","Buen nivel de comunicación oral y escrita.
 2086,1,44133921,Consultor de Proyectos SAP: MM,"Los profesionales de Ingeniería de Software de trabajo en todo el ciclo de vida de la prestación de servicios para analizar, diseñar, construir, probar, implementar y / o mantener varios componentes del sistema o aplicaciones para Accenture o nuestros clientes.","Experiencia mínima de 3 años gestionando proyectos en implementación de SAP MM.
  Ingles a nivel avanzado.
  Amplia experiencia funcional en procesos de ventas tales como lead y cotizaciones.
@@ -20691,7 +20691,7 @@
  Desarrollo de aplicaciones JAVA.
  Análisis y Diseño Orientado a Objetos.
  Frameworks y patrones de diseño."
-2092,3,44133933,Practicante de Tecnología y Explotación,"Administrar algunos inventarios de equipos microinformaticos , coordinar atenciones de incidencias y requerimientos y atender las mismas de forma presencial.",No requerida.
+2092,3,44133933,Practicante de Tecnología y Explotación,"Administrar algunos inventarios de equipos microinformaticos , coordinar atenciones de incidencias y requerimientos y atender las mismas de forma presencial.","No requerida.
 2093,1,44133943,PhoneGap Software Engineer,"Avantica Technologies, Empresa transnacional dedicada al desarrollo de software, trabaja con tecnología de punta y cuenta con una cartera de clientes en Norte y Centroamérica, y en Perú, con grandes oportunidades de desarrollo y capacitación constante, se encuentra en búsqueda de profesionales destacados para incorporarlos a su equipo de trabajo.
  
  Responsabilidades:
@@ -20712,7 +20712,7 @@
  • Responsable de la generación de informes estadísticos y solicitudes ad-hoc.
  • Preparar informes mensuales, abastecer de información a los distintos países de acuerdo a sus requerimientos.
  • Elaborar y distribuir informes mensuales KPI.
- • Responsable de apoyar Eventos y Promociones (calificadores y entradas).",
+ • Responsable de apoyar Eventos y Promociones (calificadores y entradas).","
 2096,6,44133970,PRACTICANTE DE COBRANZAS,"- Generación de informes consolidados de recupero de deuda fija.
  - Generación de informes consolidados de recupero de deuda móvil.
  - Generación de informes consolidados de recupero de deuda cable.
@@ -20722,7 +20722,7 @@
 2097,6,44133977,PRACTICANTE DE ADMINISTRACIÓN COMERCIAL,"- Validación y habilitación de presupuesto.
  - Consolidación de información y mantenimiento de bases para informes de gestión.
  - Análisis de la información para explicar variaciones de los gastos de gestión intermensual-interanual.
- - Coordinación y seguimiento para la liberación de órdenes de compra.",SQL - Basico
+ - Coordinación y seguimiento para la liberación de órdenes de compra.","SQL - Basico
 2098,6,44133979,Practicante de Estudios Económicos y Proyectos Especiales,"- Actualización de bases de datos económicos
  - Respuesta o canalización de consultas económicas
  - Apoyo en la elaboración de reportes de análisis macroeconómico
@@ -20730,7 +20730,7 @@
  - Capacidad de comunicación y relaciones interpersonales."
 2099,6,44133991,Practicante de Seguimiento de Riesgo,"• Revisar información de la base de datos general del Banco.
  • Análisis de las herramientas de gestión.
- • Apoyo en la generación de reportes y gestión de riesgos.",• Dominio Intermedio de SQL.
+ • Apoyo en la generación de reportes y gestión de riesgos.","• Dominio Intermedio de SQL.
 2100,1,44134001,Consultor Success Factors,"Creación de interfaces success factors-SAP.
  Atención y manejo de requerimientos, proyectos ante los temas técnicos.
  Soporte operativo y funcional del software Success Factors.
@@ -20799,12 +20799,12 @@
  - Crear oportunidades de ventas para Seidor vía telemarketing y eventos.
  - Comunicarse efectivamente con los clientes.
  - Realizar informes de gerencia.
- - Adoptar la cultura del grupo Seidor, sus valores y códigos.",Ideal pero no obligatorio contar con 2 años experiencia en telermarketing.
+ - Adoptar la cultura del grupo Seidor, sus valores y códigos.","Ideal pero no obligatorio contar con 2 años experiencia en telermarketing.
 2109,3,44134053,Arquitecto de TI,"•Apoyar en definir, comunicar y gestionar los principios, patrones y lineamientos de la Arquitectura Tecnológica.
  •Participar en el proceso de ciclo de vida de soluciones y servicios SOA para garantizar el cumplimiento de los principios, patrones y lineamientos.
  •Elaborar Blue Print de Arquitectura TI (Negocio, Servicios SOA, Aplicación, Datos, Integración, Seguridad, Infraestructura).
  •Habilitar soluciones tecnológicas.
- •Realizar seguimiento de los proyectos asignados.",Mínimo dos años de experiencia gestionando proyectos de arquitectura TI en empresas del rubro de telecomunicaciones. (Indispensable).
+ •Realizar seguimiento de los proyectos asignados.","Mínimo dos años de experiencia gestionando proyectos de arquitectura TI en empresas del rubro de telecomunicaciones. (Indispensable).
 2110,3,44134070,Asistente de Poderes,"Brindar soporte técnico en el procesamiento de la información de Poderes y Unidades legales.
  
  Proponer nuevos aplicativos para medir carga de trabajo y demanda considerando el marco de eficiencia.","*Conocimiento intermedio o avanzado de Office(especialmente Excel, PPT, Outlook), conocimiento intermedio de desarrollo en entorno Web ASPX, conocimiento avanzado de diseño e implementación de base de datos SQL server 2008, conocimiento avanzado de programación Framework Visual Studio 2012 (lenguaje Visual.NET y mejor si conoce también otros lenguajes), conocimiento intermedio de administración de Servidor Windows Server 2008."
@@ -20988,7 +20988,7 @@
  
  .Activar auditorías específicas
  
- Definir indicadores",
+ Definir indicadores","
 2120,6,44134123,Coordinador de Inscripción y Admisión,"- Diseñar, organizar y validar el calendario de actividades para los procesos de admisión de pos grado encomendados.
  - Supervisar la ejecución de actividades relacionadas a los procesos de admisión de postulantes de Posgrado.
  - Participar en la planificación y ejecución de los planes operativos de la sección.
@@ -21072,7 +21072,7 @@
  • Conocimientos de Sistemas Operativos UNIX (Linux, HPUX o AIX, etc.)
  • Deseable Certificación OCA y/o MCTS
  • Deseable Experiencia en gestión incidental y de requerimientos"
-2127,1,44134157,Java Senior Software Engineer,Java software development.,"• Graduate or Bachelor of Engineering or Systems or equivalent
+2127,1,44134157,Java Senior Software Engineer,"Java software development.","• Graduate or Bachelor of Engineering or Systems or equivalent
  • Experience of 2-4 years in Java software development
  • Solid experience in the following technologies and tools: Java, JavaScript, Web Programming, Database, Web Apps. Agile / Scrum methodology.
  • Advanced English skills is indispensable.
@@ -21344,7 +21344,7 @@
  • Cursos de Administración de base de datos Oracle y SQL Server
  • Conocimientos de Sistemas Operativos UNIX (Linux, HPUX o AIX, etc.)
  • Deseable Certificación OCA y/o MCTS
- • Deseable Experiencia en gestión incidental y de requerimientos",• Mínimo 3 años como Administrador de base de datos Oracle y SQL Server.
+ • Deseable Experiencia en gestión incidental y de requerimientos","• Mínimo 3 años como Administrador de base de datos Oracle y SQL Server.
 2145,1,44134218,Analista Programador DATASTAGE,"- Las actividades son principalmente de Desarrollo, administración para el despliegue de lo desarrollado en el ambiente de producción.
  - Desarrollar de jobs paralelos.
  - Conocimientos de Stages de carga, lectura y transformación.
@@ -21358,7 +21358,7 @@
  Patrocinio con certificaciones."
 2146,1,44134219,Analista Programador RPG/400,"- Mínimo 5 años de experiencia en el desarrollo de Aplicaciones en RPG/400 o ILE.
  - De preferencia con experiencia en empresas industriales (no indispensable).
- -Trabajo en equipo, orientado al logro de los objetivos, espíritu de investigación, proactividad.",- Experiencia comprobada en programación en plataforma AS/400.
+ -Trabajo en equipo, orientado al logro de los objetivos, espíritu de investigación, proactividad.","- Experiencia comprobada en programación en plataforma AS/400.
 2147,1,44134225,Analista Técnico MESSAGE BROKER,"• Preparar prototipos.
  • Desarrollar los programas o componentes requeridos. especificados en los documentos funcionales y técnicos.
  • Asegurar la calidad de los entregables.
@@ -22957,7 +22957,7 @@
  2. Asegurar que todas las herramientas y políticas de System Management y monitoreo se encuentren integradas.
  3. Gestionar y supervisar el cumplimiento del ciclo de vida de todos los problemas.
  4. Gestionar y supervisar el cumplimiento del proceso de Gestión de Incidentes.
- 5. Evaluar, planificar y controlar el ciclo de vida de todos los cambios.",- Experiencia mínima de 1 año como Analista de Procesos y 1 año en Gestión de Proyectos.
+ 5. Evaluar, planificar y controlar el ciclo de vida de todos los cambios.","- Experiencia mínima de 1 año como Analista de Procesos y 1 año en Gestión de Proyectos.
 2322,3,44135327,Sub Gerente Adjunto de Operaciones Especiales IDT,"1. Vela por la estabilidad de las aplicaciones a su cargo. Propone nuevos reqs técnicos a fin de implementar mejoras en pro de la estabilidad de los aplicativos y analiza y valida las propuestas presentadas por el proveedor.
  2. Analiza y estima el esfuerzo de las solicitudes o requerimientos de los usuarios internos. Valida, cuestiona y audita las estimaciones realizadas por el proveedor, en función a su experiencia técnica y coordinaciones con los expertos de otros equipos (TE y CE).
  3. Proporciona asesoría funcional y/o técnica. Valida las definiciones funcionales alcanzadas por los brokers de negocio, basado en su experiencia funcionalidad del negocio, a fin de asegurar la factibilidad técnica de las mismas.
@@ -23230,7 +23230,7 @@
 2348,4,44135470,Analista de ETL,"• Analista Programador Senior de BI (Business Intelligence, Datawarehouse y Datamart).
  • Conocimientos a nivel Sénior alto de la Herramienta ETL de Informática PowerCenter
  • Experiencia en desarrollos SAP para PowerExchange de Informatica PowerCenter (Altamente valorado pero no excluyente)
- • Experiencia en Implementación, creación, optimización y mantenimiento de SQL Genérico (SP’s, Tablas, Índices, Querys) a ser utilizados desde y para la Herramienta ETL PowerCenter.",Disponibilidad inmediata.
+ • Experiencia en Implementación, creación, optimización y mantenimiento de SQL Genérico (SP’s, Tablas, Índices, Querys) a ser utilizados desde y para la Herramienta ETL PowerCenter.","Disponibilidad inmediata.
 2349,3,44135489,Operador de Data Center,"Ejecutar, mantener y supervisar operaciones en producción.
  Resguardar la operación de los distintos servicios y aplicaciones.
  Resguardar los ambientes de nuestro Data Center, dentro de los estándares de seguridad quese manejan.
@@ -23265,7 +23265,7 @@
  • Curso en Gestión de Procesos de Negocio (Business Process Management-BPM).
  • Modelamiento de procesos con BPMN.
  • Conocimiento en Arquitectura Orientada a Servicios SOA.
- • Inglés.",java.
+ • Inglés.","java.
 2353,1,44135502,Gerente de Aseguramiento de la Calidad,"• Asegurar la calidad del desarrollo de software.
  • Establecer la metodología de aseguramiento de calidad de software.
  • Elaborar la estrategia de pruebas para determinados proyectos o requerimientos complejos.
@@ -23278,7 +23278,7 @@
  •Concretar ventas con nuevos clientes.
  •Actualizarse constantemente en las herramientas comerciales y productos de mercado.
  •Participar activamente en Eventos Comerciales.
- •Elaborar Reportes sobre Pipe Comercial y Status de Oportunidades.",
+ •Elaborar Reportes sobre Pipe Comercial y Status de Oportunidades.","
 2355,6,44135519,Ejecutivo Comercial Semi Senior,"• Prospectar nuevos y potenciales clientes.
  • Fidelizar Clientes Base Instalada (clientes actuales).
  • Concretar ventas con nuevos clientes.
@@ -23286,11 +23286,11 @@
  • Actualizarse constantemente en las herramientas comerciales y productos de mercado.
  • Participar activamente en Eventos Comerciales.
  • Elaborar Reportes sobre Pipe Comercial y Status de Oportunidades.
- • Asegurarse de que se facturen las ventas concretadas y hacer seguimiento de la cobranza de la venta.",Mínimo 2 años de experiencia en puestos similares (ventas).
-2356,2,44135520,Practicante JAVA,- Programación en Java / Power Builder.,"Haber laborado 1 años como mínimo.
+ • Asegurarse de que se facturen las ventas concretadas y hacer seguimiento de la cobranza de la venta.","Mínimo 2 años de experiencia en puestos similares (ventas).
+2356,2,44135520,Practicante JAVA,"- Programación en Java / Power Builder.","Haber laborado 1 años como mínimo.
  Conocimientos en Java / Power Builder / Base de Datos (indispensable).
  Disponibilidad inmediata y de tiempo completo."
-2357,2,44135521,Analista Programador - Sharepoint,- Programación en .NET / Sharepoint (Indispensable).,minimo 2 años Programando en Sharepoint
+2357,2,44135521,Analista Programador - Sharepoint,"- Programación en .NET / Sharepoint (Indispensable).","minimo 2 años Programando en Sharepoint
 2358,6,44135522,Reclutamiento Practicante N° 044-2014 Dpto. Superv. Microfinanciera -C - SABM,"Apoyo en: la elaboración de informes trimestrales, la elaboración de presentaciones, cuadros estadísticos, labores propias del área, el procesamiento de las solicitudes presentadas por las empresas a cargo.","Pertenecer al Tercio Superior.
  Haber cursado finanzas, gestión de riesgos.
  Facilidad para la expresión oral y escrita, así como demostradas habilidades para trabajar en equipo.
@@ -23427,8 +23427,8 @@
  - Seguimiento al cumplimiento de Políticas de Seguridad de la Información.
  - Apoyar en la gestión de accesos: Validación de los requerimientos de accesos, mantenimiento de perfiles, mantenimiento de las matrices de roles por cargos y segregación de funciones, asistencia de accesos a los usuarios.
  - Apoyar en el mantenimiento de políticas, procedimientos y manuales del sistema de Gestión de Seguridad de Información.
- - Seguimiento periódico de accesos, perfiles y roles (revisión y realización de informes).",
-2369,6,44135564,Practicante en Administración Tributaria,Funciones orientadas a las labores propias de la Administración Tributaria y Aduanera que tiene como objetivo el desarrollo de competencias para el trabajo.,No indispensable.
+ - Seguimiento periódico de accesos, perfiles y roles (revisión y realización de informes).","
+2369,6,44135564,Practicante en Administración Tributaria,"Funciones orientadas a las labores propias de la Administración Tributaria y Aduanera que tiene como objetivo el desarrollo de competencias para el trabajo.","No indispensable.
 2370,4,44135569,Jefe de Proyectos Senior,"Gestionar la formulación e implementaciones de los proyectos de telecomunicaciones respetando el marco metodológico de la pmp
  Gestionar stakeholders.
  Manejo de modelos de negocio y escenarios de trabajo.
@@ -23519,12 +23519,12 @@
  Sólidos Conocimientos del área de TI."
 2378,4,44135614,Analista de Productos y Tecnología I,"-Asesora a los lideres usuarios del negocio en como resolver las necesidades de negocio a traves de herramientas de TI y mejora de procesos.
  -Da soporte a usuarios sobre soluciones de TI implementadas.
- -Documenta los proyectos y procesos implementados como base de conocimiento del equipo.",Experiencia mínima de 2 años en Gestión de proyectos / Mejora de process.
+ -Documenta los proyectos y procesos implementados como base de conocimiento del equipo.","Experiencia mínima de 2 años en Gestión de proyectos / Mejora de process.
 2379,6,44135621,Asistente de Negocios,"-Ejecutar las transacciones financieras.
  -Apoyar al Funcionario de Negocios en la ejecución de créditos.
  -Gestionar las solicitudes diarias de los clientes.
  -Administrar la cartera.
- -Apoyar al Funcionario de Negocios en los contactos de venta.",No requerida
+ -Apoyar al Funcionario de Negocios en los contactos de venta.","No requerida
 2380,4,44135624,Analista de Infraestructura,"• Encargado de verificar el correcto funcionamiento de las comunicaciones con tiendas y de mantener los servidores en óptimas condiciones, así como de realizar las pruebas de nuevos equipos.
  • Responsable de los Storage, mantenimientos y asignación de espacios.
  • Responsable por la seguridad de la red y back up de la información.
@@ -23590,7 +23590,7 @@
  - Instalación y configuración de software.
  - Investigación de librerías y componentes de software.
  - Programación en .NET, PHP, JAVA, Android.
- - Diseño, documentación e implementación de bases de datos.",- Interés por especializarse en ingeniería de software.
+ - Diseño, documentación e implementación de bases de datos.","- Interés por especializarse en ingeniería de software.
 2386,1,44135706,Desarrollador - Aplicaciones Web,"Se requiere profesional egresado especializado en proyectos de ingeniería de software, para apoyar proyectos corporativos a nivel nacional e internacional. Tendrá las siguientes funciones:
  
  - Elaborar arquitectura de software.
@@ -23602,7 +23602,7 @@
  Experiencia de 1 año en programación en Oracle / MS SQL Server, MySQL."
 2387,1,44135714,Programador Siebel,"Accenture es una empresa global de consultoría en management, servicios de tecnología y outsourcing que colabora con sus clientes para ayudarles a convertirse en empresas de alto desempeño. En Accenture podrás unirte a más de 266.000 profesionales en 120 países y trabajar con clientes en casi todas las industrias más importantes del mundo. Los empleados en Accenture construyen su carrera en distintas áreas de negocio, específicamente en Consultoría, Tecnología y Outsourcing, como así también dentro de nuestras funciones corporativas internas. Una organización comprometida con el trabajo en equipo y la colaboración.","Experiencia mínima de 1 año alineada a implementación con herramientas SIEBEL CRM.
  Deseable experiencia en Siebel, CRM, Java, SQL, Modeling."
-2388,6,44135715,Practicante de métricas y gestión de capital,"Ayudar en la gestión de elaboración, análisis y presentación automatización de métricas crediticias.",
+2388,6,44135715,Practicante de métricas y gestión de capital,"Ayudar en la gestión de elaboración, análisis y presentación automatización de métricas crediticias.","
 2389,1,44135716,Analista Programador Siebel,"Accenture es una empresa global de consultoría en management, servicios de tecnología y outsourcing que colabora con sus clientes para ayudarles a convertirse en empresas de alto desempeño. En Accenture podrás unirte a más de 266.000 profesionales en 120 países y trabajar con clientes en casi todas las industrias más importantes del mundo. Los empleados en Accenture construyen su carrera en distintas áreas de negocio, específicamente en Consultoría, Tecnología y Outsourcing, como así también dentro de nuestras funciones corporativas internas. Una organización comprometida con el trabajo en equipo y la colaboración.","•Experiencia mínima de 1 año alineada a implementación con herramientas SIEBEL.
  •Ingles a nivel avanzado.
  •Deseable experiencia en Siebel, CRM, Java, SQL, Modeling.
@@ -23629,7 +23629,7 @@
  Coordinación y gestión de los recursos asignados en base a las actividades programadas.
  Elaboración de informes y entregables de los proyectos asignados como los avance a presentar al cliente."
 2392,2,44135721,Practicante de Servicios de Voz y Datos,"• Implementar una aplicación (Interfaz de consulta a Base de Datos) que facilite el acceso a la información de la red de oficinas, Cajeros y Agentes Express del BBVA, soportándose en los proveedores de servicio para obtener información de enlaces y topología de red de Oficinas, Cajeros, Agentes Express, VMS y Agente Express Plus.
- • Apoyo en la publicación de los reportes de disponibilidad de servicio de Voz y Datos del Banco.",No indispensable
+ • Apoyo en la publicación de los reportes de disponibilidad de servicio de Voz y Datos del Banco.","No indispensable
 2393,6,44135722,Lider de Proyectos SAP: FI,"Elija Accenture, y hacer la entrega de innovadores parte de trabajo de su extraordinaria carrera.
  Empleados de Accenture a forjarse una carrera en cuatro áreas diferentes de nuestro negocio: Consultoría, Tecnología, Outsourcing y funciones corporativas internas. Cada zona ofrece una experiencia de carreras única y una atractiva mezcla de trabajo y oportunidades de capacitación, ambiente de trabajo y la estructura de promoción profesional.
  Los profesionales de Ingeniería de Software de trabajo en todo el ciclo de vida de la prestación de servicios para analizar, diseñar, construir, probar, implementar y / o mantener varios componentes del sistema o aplicaciones para Accenture o nuestros clientes.
@@ -23673,7 +23673,7 @@
 2397,6,44135726,Practicante de gestión interna y monitoreo,"• Apoyo en la seguimiento y control de proyectos tecnológicos.
  • Apoyo en la implementación y optimización de procesos.
  • Apoyo en la administración de la documentación de proyectos.
- • Apoyo en la elaboración de informes de proyectos.",
+ • Apoyo en la elaboración de informes de proyectos.","
 2398,4,44135727,Analista SAP CO,"Únete a Accenture y ayudar a transformar las organizaciones y de las comunidades líderes en todo el mundo. La magnitud de nuestras capacidades y compromisos con los clientes y la forma en que colaboramos, trabajamos y entregamos valor proporciona una oportunidad única para crecer y avanzar. Elija Accenture, y hacer la entrega de innovadores parte de trabajo de su extraordinaria carrera.
  Empleados de Accenture a forjarse una carrera en cuatro áreas diferentes de nuestro negocio: Consultoría, Tecnología, Outsourcing y funciones corporativas internas. Cada zona ofrece una experiencia de carreras única y una atractiva mezcla de trabajo y oportunidades de capacitación, ambiente de trabajo y la estructura de promoción profesional.
  Los profesionales de Ingeniería de Software de trabajo en todo el ciclo de vida de la prestación de servicios para analizar, diseñar, construir, probar, implementar y / o mantener varios componentes del sistema o aplicaciones para Accenture o nuestros clientes.
@@ -24013,7 +24013,7 @@
  Más de 3 años de experiencia en el desarrollo de soluciones de portal y gestor de contenidos con herramientas IBM (Websphere Portal y WCM), desarrollo de portlets y configuración de las herramientas.
  Deseable experiencia en otras soluciones de portales y gestores de contenido java Liferay, opencms."
 2432,4,44135858,Especialista en Ecommerce,"Realizar análisis y programación.
- Ejecutar análisis y especificación de requerimientos.",Experiencia de 2 años en implantaciones de soluciones Ecommerce.
+ Ejecutar análisis y especificación de requerimientos.","Experiencia de 2 años en implantaciones de soluciones Ecommerce.
 2433,6,44135859,Lider de Proyectos SAP: FI,"Empleados de Accenture a forjarse una carrera en cuatro áreas diferentes de nuestro negocio: Consultoría, Tecnología, Outsourcing y funciones corporativas internas. Cada zona ofrece una experiencia de carreras única y una atractiva mezcla de trabajo y oportunidades de capacitación, ambiente de trabajo y la estructura de promoción profesional.
  Los profesionales de Ingeniería de Software de trabajo en todo el ciclo de vida de la prestación de servicios para analizar, diseñar, construir, probar, implementar y / o mantener varios componentes del sistema o aplicaciones para Accenture o nuestros clientes.
  Te invitamos a sumarte a una organización que ofrece mayores desafíos, mejores oportunidades y más satisfacción.","Experiencia mínima de 3 años gestionando proyectos en implementación de SAP FI.
@@ -24280,12 +24280,12 @@
 2460,4,44135970,Analista de Marketing y Bases de Datos,". Segmentación y depuración de la base de datos de clientes, a través de los sistemas CRM,Business Inteligence y ERP existentes.
  . Análisis y desarrollo de campañas de incremento de ventas y fidelización
  . Seguimiento y control de resultados de ventas por sede, lineas, servicios y productos.
- . Apoyo en la formulación y control de estatregias de promoción.",
+ . Apoyo en la formulación y control de estatregias de promoción.","
 2461,3,44135986,Especialista de Estructuras y Organización- TEMPORAL,"-Evaluar el acceso a aplicativos distribuidos.
  -Elaborar cuadros de mando, utilizando MicroStrategy, MS Access y MS Excel.
  -Automatizar reportería
  -Evaluar requerimientos especiales de equipamiento.
- -Mantenimiento, control y administración de la base de funciones los puestos que componen la estructura organizacional.",
+ -Mantenimiento, control y administración de la base de funciones los puestos que componen la estructura organizacional.","
 2462,6,44136006,Practicante de Análisis Comercial y Cross Sell TC,"En Interbank nos encontramos en la búsqueda de un practicante para nuestra área de Gestión de Clientes esta persona será encargará de generar información relevante para la toma de decisiones a partir de la generación de Bases de Datos de las Tablas de DWH con las que el Banco cuenta, del desarrollo de diversos reportes de monitoreo, control de indicadores, KPI’s y de la participación en Análisis Comerciales, proyectos de segmentación, y generación de modelos.","Experiencia mínima de 6 meses, en puestos como Investigación de Mercado, Inteligencia de Negocios, Riesgos o similares."
 2463,3,44136011,Practicante de Seguridad de Información,"El Banco Falabella pertenece al grupo Falabella, con más de 30 años de experiencia en búsqueda constante de retos y expansión a nuevos mercados. Pertenecemos al Top 5 de grupos más grandes de Latinoamérica, estando entre los principales países: Perú, Chile, Argentina, Colombia.
  ¡Únete al Banco que cuenta con el mayor record de colocación de tarjetas de crédito en el mercado nacional
@@ -24311,7 +24311,7 @@
  4) Coordinar, planificar y monitorear potenciales problemas que puede enfrentar el negocio con los servicios otorgados por el proveedor de soluciones en perfilamiento y motor de promociones Pre Pago que trabaje los algoritmos que permitan analizar los datos y descubrir patrones y relaciones que permitan medir la sostenibilidad de las campañas.","Especialización en Dataminning (Deseable), Business Inteligence.
  Conocimiento en Manejo de Base de Datos, Conocimientos en PL/SQL o SQL Transac.
  Hasta 2 años de experiencia en puestos similares."
-2466,3,44136086,Becario TI Lima,Soporte en los procesos de TI.,No necesaria.
+2466,3,44136086,Becario TI Lima,"Soporte en los procesos de TI.","No necesaria.
 2467,4,44136112,Practicante Programador PHP,"- Análisis y diseño de sistemas.
  - Desarrollo de sistemas y páginas web.","- Conocimiento básico de PHP.
  - Conocimiento básico de MySQL."
@@ -24348,7 +24348,7 @@
  -Establecimiento de políticas y procedimientos de Seguridad de la Información, auditorías internas y externas.","-Conocimiento de SAP (modulo logístico y finanzas), JDA, Logfire.
  -Experiencia mínima de 3 años como Supervisor o Analista Senior realizando funciones similares.
  -Disponibilidad para laborar en Chorrillos (Ex Fábrica Luccetti)."
-2471,3,44136129,PRACTICANTE DE TI,"Manejo de nuestras bases de dato, pagina web, redes sociales, así como, desarrollo de aplicaciones web.",
+2471,3,44136129,PRACTICANTE DE TI,"Manejo de nuestras bases de dato, pagina web, redes sociales, así como, desarrollo de aplicaciones web.","
 2472,6,44136132,Analista de Producto,"1.Apoyar en el desarrollo e implementación de estrategias comerciales de marketing, por medio del análisis de la competencia, y la evaluación del costo/beneficio.
  2.Realizar el análisis de clientes y segmentación de la base de datos.
  3.Gestionar los diferentes canales de venta, apoyándolos en la implementación de estrategias, dándoles soporte técnico, y mejorando sus procesos partir de una comunicación permanente.
@@ -24513,7 +24513,7 @@
  Monitoreo y control de Software de reproducción de audio.
  Monitoreo y control de central telefónica.
  Administración de Correos gmail ,configuracion de dominios ,pagos por internet.
- Conocimientos de Sistemas operativos Windows y Linux .",
+ Conocimientos de Sistemas operativos Windows y Linux .","
 2487,4,44136240,Consultor de Negocios,"Levantamiento, diagramación y análisis de procesos de negocio.
  Elaboración y análisis de estadísticos de productividad y eficiencia.
  Elaboración y sustentación de propuestas de mejora de negocio.
@@ -24558,12 +24558,12 @@
  
  - Análisis de riesgos de los sistemas de comunicación y bases de datos.
  
- - Manejo de información de distintas fuentes para la obtención de datos que sean útiles en la solución de la problemática.",Experiencia profesional mínima de 1 año en áreas de Auditoría o Seguridad de Información
+ - Manejo de información de distintas fuentes para la obtención de datos que sean útiles en la solución de la problemática.","Experiencia profesional mínima de 1 año en áreas de Auditoría o Seguridad de Información
 2491,4,44136256,Practicante de Consultoría y Auditoría de sistemas,"- Asesoría y auditoría de sistemas para nuestros clientes.
  
  - Análisis de riesgos de los sistemas de comunicación y bases de datos.
  
- - Manejo de información de distintas fuentes para la obtención de datos que sean útiles en la solución de la problemática.",Experiencia mínima previa de 6 meses en el área de IT y soporte en comunicaciones o en el área de negocios y mejora de procesos.
+ - Manejo de información de distintas fuentes para la obtención de datos que sean útiles en la solución de la problemática.","Experiencia mínima previa de 6 meses en el área de IT y soporte en comunicaciones o en el área de negocios y mejora de procesos.
 2492,4,44136257,Analista Programador Senior,"Descripción del Puesto: Analizar y elaborar las especificaciones funcionales de los proyectos de Software. Asimismo, supervisar la programación y obtener la validación del control de calidad de los proyectos asignados, según las especificaciones del proyecto, cronogramas establecidos y procesos internos.","EXPERIENCIA PROFESIONAL: De preferencia 3 años de experiencia Laboral en el puesto y 2 años como Programador.
  CONOCIMIENTOS INFORMATICOS: Conocimientos de UML, procesos de desarrollo, herramienta de Análisis (Enterprise Architect).
  Conocimiento de mejores prácticas en el desarrollo de software basado en la metodología RUP.
@@ -24766,7 +24766,7 @@
  - Instalación y configuración de software.
  - Investigación de librerías y componentes de software.
  - Programación en .NET, PHP, JAVA, Android.
- - Diseño, documentación e implementación de bases de datos.",- Interés por especializarse en ingeniería de software.
+ - Diseño, documentación e implementación de bases de datos.","- Interés por especializarse en ingeniería de software.
 2513,1,44136347,Desarrollador - Aplicaciones Web,"Se requiere profesional egresado especializado en proyectos de ingeniería de software, para apoyar proyectos corporativos a nivel nacional e internacional. Tendrá las siguientes funciones:
  
  - Elaborar arquitectura de software.
@@ -24779,7 +24779,7 @@
 2514,3,44136350,Practicante de Planeamiento,"- Automatización de reportes en Excel.
  - Apoyar en la validación de información de los indicadores y la elaboración de reportes.
  - Asesorar al área comercial respecto a los avances en los indicadores.
- - Elaborar cuadros de seguimiento e indicadores.",- Dominio de SQL para explotación de información.
+ - Elaborar cuadros de seguimiento e indicadores.","- Dominio de SQL para explotación de información.
 2515,4,44136366,Analista de procesos,"Procesos Operativos: Administración de Títulos y Tesis, Admisión, Campus Virtual, Gestión de Horarios, Gestión de Notas, Matrícula, Planilla docente, Registros Académicos, Reserva de Recursos, Reportes, Administración y Seguridad del Sistema.
  Definir o crear procesos nuevos.
  Reglamentar y definir parámetros del negocio.
@@ -24787,7 +24787,7 @@
  Elaborar los casos de prueba y ejecutar las pruebas de funcionalidad de los módulos a su cargo (Universidad) y la integración con otros procesos.
  Realizar la limpieza y depuración de datos a ser migrados si hubieran.
  Se convertirá en entrenador especializado en los módulos a su cargo.
- Reportar a la Gerencia de Proyecto Universidad.",3 a 4 años laborando en posiciones similares.
+ Reportar a la Gerencia de Proyecto Universidad.","3 a 4 años laborando en posiciones similares.
 2516,4,44136367,Analista de sistemas senior,"Es responsable de supervisar y asegurar la debida documentación de los procesos y reglamentos de la institución para todas sus unidades de negocio, para lo cual:
  Coordina de forma cercana con los analistas de procesos.
  Levanta la información relevante de los reglamentos de negocio.
@@ -24825,7 +24825,7 @@
  Supervisa la implementación de los sistemas de información que utilicen las bases de datos.
  Supervisa la definición de los procedimientos para la protección de las bases de datos que eviten la alteración o destrucción de los datos y el acceso a datos confidenciales.
  Supervisa e implementa proyectos de tecnología e infraestructura mediante la elaboración de un plan de trabajo que incluya la evaluación de las necesidades reales y la búsqueda de soluciones idóneas a fin de obtener el mejor resultado posible en su implementación y costos.
- Participa en la elaboración del Plan Anual de Sistemas.",5 años laborando en posiciones similares.
+ Participa en la elaboración del Plan Anual de Sistemas.","5 años laborando en posiciones similares.
 2520,6,44136393,Programa de Liderazgo de EnseñaPerú,"En EnseñaPerú creemos que cualquier niño o joven peruano, independientemente de la situación en la que nazca, merece obtener una educación de excelencia y acceder a las oportunidades que desee. Como Profesional de EnseñaPerú (PEP) enseñarás por dos años a dichos niños o jóvenes, y a la vez formarás parte de un riguroso Programa de Liderazgo, de experiencia vivencial y el único del país que es renumerativo, en el que desarrollarás diversas competencias.
  El Programa de EnseñaPerú es una experiencia poderosa de crecimiento personal y profesional que busca desarrollar en los Profesionales de EnseñaPerú competencias necesarias para promover prácticas educativas con resultados de excelencia en el aula, la escuela y la comunidad, y con ello, constituirse en agentes de cambio que contribuyan desde diversos sectores, a eliminar la alta inequidad y la baja calidad educativa en el Perú. A la par, es un proceso de desarrollo profesional que te permitirá consolidar competencias para acceder a experiencias profesionales de primer nivel, porque las organizaciones hoy buscan profesionales diferentes.
  Los dos años de experiencia en aula ofrece diversas maneras y oportunidades para poner en práctica lo que se aprende, evaluar progresos con resultados tangibles y reales.
@@ -25182,7 +25182,7 @@
  
  Responsable de la elaborar la documentación requerida por la metodología en los formatos correspondientes y la recolección oportuna y completa de las evidencias de los controles revisados.
  
- Responsable del reporte de avance y situación del trabajo al Senior responsables de la revisión para los ajustes que se estimen convenientes.",Experiencia mínima de 6 meses en áreas de Auditoría o Seguridad de Información.
+ Responsable del reporte de avance y situación del trabajo al Senior responsables de la revisión para los ajustes que se estimen convenientes.","Experiencia mínima de 6 meses en áreas de Auditoría o Seguridad de Información.
 2550,4,44136531,Practicante de Sistemas,"1. Desarrollar aplicaciones y sistemas informáticos.
  2. Efectuar el mantenimiento de las aplicaciones informáticas.
  3. Realizar el mantenimiento de los Sistemas Contables en sus distintos módulos y el Mantenimiento de los Sistemas Informáticos desarrollados in house.
@@ -25190,7 +25190,7 @@
  Conocimientos de tecnologías web html, html5, javascript, jquery, ajax, css y css3.
  Conocimientos de base de datos: Access, Sql server 2008, Mysql y fundamentos de Oracle.
  Conocimiento de desarrollo de aplicaciones sencillas para móviles (IOS y Android"
-2551,6,44136536,Practicante de Planning y PMO,"Apoyo en el levantamiento de información, coordinación de reuniones, elaboración de actas de reunión, estandarización y procesamiento de información, elaboración de informes; durante la elaboración del plan estratégico.",Conocimientos de Planeamiento Estratégico y Gestión de Proyectos.
+2551,6,44136536,Practicante de Planning y PMO,"Apoyo en el levantamiento de información, coordinación de reuniones, elaboración de actas de reunión, estandarización y procesamiento de información, elaboración de informes; durante la elaboración del plan estratégico.","Conocimientos de Planeamiento Estratégico y Gestión de Proyectos.
 2552,4,44136546,Analista de Sistemas Junior,"La posición tendrá como misión relevar los requerimientos de sus clientes internos, coordinar la tercerización de estos y garantizar la calidad y continuidad de los servicios recibidos por los diversos proveedores.
  Funciones:
  Realizar la formulación de los proyectos de tecnologías de la información para la mejora de procesos.
@@ -25269,7 +25269,7 @@
  •Programar y Consolidar en coordinación con el área de transporte la atención de productos controlados y fiscalizados.
  •Planificar las entregas de las importaciones e informar a los responsables de los proyectos
  •Asistir a los analistas de compras en las funciones asignadas
- •Organizar el archivo del área de compras (Documentos ISO - 900)",3 meses de experiencia en puestos similares dentro del área de Administración o Logística.
+ •Organizar el archivo del área de compras (Documentos ISO - 900)","3 meses de experiencia en puestos similares dentro del área de Administración o Logística.
 2561,3,44136575,Analista de infraestructura tecnológica,"Planificar, coordinar y ejecutar el DRP (Disaster recovery plan).
  Dar soporte al plan de continuidad de negocios en las aristas relacionadas al área de tecnología.
  Realizar seguimiento a la implementación de las recomendaciones brindadas por auditoría interna.
