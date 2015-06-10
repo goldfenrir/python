@@ -23,11 +23,16 @@ for linea in lineas:
         lineaTotal+=linea
 blob=TextBlob(lineaTotal.decode('utf-8'))
 words=blob.words
-#seq = ('name', 'age', 'sex','name')
-
 dict = dict.fromkeys(words)
 dictList=sorted(dict.keys())
-archEscritura.write(str(dict))
+bag=[]
+for word in dict:
+    bag.append(word)
+
+#seq = ('name', 'age', 'sex','name')
+
+
+archEscritura.write(str(bag))
 archEscritura.close()
 #dictList=sorted(dict.keys())
 #print dictList
